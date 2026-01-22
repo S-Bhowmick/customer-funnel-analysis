@@ -1,0 +1,14 @@
+# Python / VS Code
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+# Data outputs (privacy-safe)
+data/raw/*.csv
+data/processed/*.csv
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
